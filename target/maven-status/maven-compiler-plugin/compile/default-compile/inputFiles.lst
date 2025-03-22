@@ -1,0 +1,6 @@
+/Users/furkanmemis/Desktop/workspace/java-projects/java-server/src/main/java/com/example/java_server/JavaServerApplication.java
+/Users/furkanmemis/Desktop/workspace/java-projects/java-server/src/main/java/com/example/java_server/controller/UserController.java
+/Users/furkanmemis/Desktop/workspace/java-projects/java-server/src/main/java/com/example/java_server/models/User.java
+/Users/furkanmemis/Desktop/workspace/java-projects/java-server/src/main/java/com/example/java_server/repository/UserRepository.java
+/Users/furkanmemis/Desktop/workspace/java-projects/java-server/src/main/java/com/example/java_server/services/HashServices.java
+/Users/furkanmemis/Desktop/workspace/java-projects/java-server/src/main/java/com/example/java_server/services/UserServices.java
