@@ -1,0 +1,37 @@
+ # Java
+ *.class
+ *.jar
+ *.war
+ *.ear
+
+ # Log files
+ *.log
+
+ # Maven
+ .target/
+ !.mvn/wrapper/maven-wrapper.jar
+ *.mvn/wrapper/maven-wrapper.properties
+
+ # Gradle
+ .gradle/
+ build/
+
+ # IntelliJ IDEA
+ .idea/
+ *.iml
+
+ # Eclipse
+ .project
+ .classpath
+ .settings/
+
+ # VS Code
+ .vscode/
+
+ # OS generated files
+ .DS_Store
+ Thumbs.db
+
+ # Other
+ *.swp
+ *.swo
